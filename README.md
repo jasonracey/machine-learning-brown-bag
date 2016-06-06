@@ -1,6 +1,7 @@
 # Machine Learning Brown Bag
+This repository contains the files and instructions required to get set up to participate in an interactive machine learning demonstration.
 
-### Set Up (Mac OSX)
+### Getting Started (Linux and Mac OSX)
 1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 1. Download and install [Vagrant](https://www.vagrantup.com/downloads.html)
 1. Create a Vagrant directory  
