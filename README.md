@@ -1,4 +1,4 @@
-# Machine Learning Brown Bag
+# Machine Learning Lab
 This repository contains the files and instructions required to get set up to participate in an interactive machine learning demonstration.
 
 ### Getting Started (Linux and Mac OSX)
