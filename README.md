@@ -1,5 +1,5 @@
 # Machine Learning Lab
-This repository contains the files and instructions required to get set up to participate in an interactive machine learning demonstration.
+This repository contains the files and instructions required to get set up to participate in an interactive machine learning lab exercise.
 
 ### Getting Started (Linux and Mac OSX)
 1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
